@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+body {
+  font-family: sans-serif;
+}
+.wrapper {
+    background-color: mistyrose;
+    margin: 20rem auto;
+    text-align: center;
+    padding: 5rem;
+}
+h4 {
+    margin-top: 1rem;
+}
+h5 {
+    margin-top: 3rem;
+}
