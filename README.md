@@ -24,7 +24,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-<h2>PROJECT DEFINITION</h2>
+<h3>PROJECT DEFINITION</h3>
 
 <p align="center">
    The Random-Rewards Generator is a JavaScript program that generates a written reward each time the user refreshes the browser.
@@ -32,7 +32,7 @@
 
 ### Built With
 
-* [javascript]
+* [JAVASCRIPT]
 * [CSS]
 * [HTML]
 
