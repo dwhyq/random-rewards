@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="" alt="Logo" width="288" height="52">
+    <img src="https://github.com/dwhyq/random-rewards/blob/master/images/randrward-image.gif" alt="Logo" width="288" height="52">
 </div><br>
 
 
@@ -23,7 +23,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-<h1>PROJECT DEFINITION</h1>
+<h2>PROJECT DEFINITION</h2>
 
 <p align="center">
    The Random-Rewards Generator is a JavaScript program that generates a written reward each time the user refreshes the browser.
@@ -31,7 +31,7 @@
 
 ### Built With
 
-* [![Js][javascript.com]][javascript-url]
+* [javascript]
 * [CSS]
 * [HTML]
 
@@ -40,9 +40,9 @@
 ### Inspiration
 
 <p>
-  Everyone worker deserves a reward. Even a kind word can go a long way but who doesn't want some thing big?! No one..ol! This project was geared towards improving my coding skill.
+  Everyone worker deserves a reward. Even a kind word can go a long way but who doesn't want some thing big?! No one..lol! This project was geared towards improving my coding skill.
  </p>
- 
+
 <!-- CONTRIBUTING -->
 ## CONTRIBUTING
 
@@ -140,11 +140,5 @@ Then, push those changes from your local repository to the "origin" (your fork):
 
 Congratulations
 You just successfully made a contribution to our repository!!
-
-<!-- ACKNOWLEGEMENT -->
-## ACKNOWLEGEMENT
-
-Huge thanks to the [Ingressive For Good and Zuri Team](https://training.zuri.team/) for the training and inspiring this project.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
