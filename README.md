@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://github.com/dwhyq/random-rewards/blob/master/images/randrward-image.gif" alt="Logo" width="88" height="92">
+    <img src="https://github.com/dwhyq/random-rewards/blob/master/images/randrward-image.gif" alt="Logo" width="118" height="102">
     <h4>RANDOM REWARDS</h4>
 </div><br>
 
